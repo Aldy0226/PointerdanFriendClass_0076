@@ -55,3 +55,4 @@ int main()
     objekPP.LuasPp(objekPP.panjang, objekPP.lebar) << endl;
 }
 
+

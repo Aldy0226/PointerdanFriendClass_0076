@@ -18,3 +18,8 @@ class pelajar
         friend void manusia::showNimPelajar(pelajar &x);
 };
 
+void manusia::showNimPelajar(pelajar &x)
+{
+    cout << x.nilai;
+}
+
